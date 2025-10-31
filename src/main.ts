@@ -22,7 +22,7 @@ async function bootstrap() {
 
   await app.listen(envs.port)
 
-  console.log("Mundillo cambiante!");
+  console.log("Mundillo cambiante2!!!");
   
 
   logger.log(`Gateway is running on port ${envs.port}`)
